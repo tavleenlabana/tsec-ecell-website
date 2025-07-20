@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>TSEC E-Cell</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f8f9fa;
+      color: #333;
+    }
+
+    header {
+      background-color: #101820;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+
+    nav ul {
+      list-style: none;
+      padding: 0;
+      margin: 10px 0 0;
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+    }
+
+    nav a {
+      color: white;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    section {
+      padding: 40px 20px;
+      max-width: 1000px;
+      margin: auto;
+    }
+
+    h1, h2, h3 {
+      color: #101820;
+    }
+
+    .team {
+      margin-top: 20px;
+    }
+
+    .team h3 {
+      margin-top: 30px;
+      color: #343a40;
+    }
+
+    .team ul {
+      padding-left: 20px;
+    }
+
+    .team ul li {
+      margin-bottom: 5px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>TSEC Entrepreneurship Cell</h1>
+    <nav>
+      <ul>
+        <li><a href="#vision">Vision & Mission</a></li>
+        <li><a href="#team">The Phoenix League</a></li>
+        <li><a href="#events">Events</a></li>
+        <li><a href="#startups">Startups</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="vision">
+    <h2>Our Vision</h2>
+    <p>
+      To transform TSEC into a thriving hub of entrepreneurship, innovation, and impact — where every student feels empowered to think boldly, build fearlessly, and lead change. We envision a culture where creativity meets execution, ideas turn into ventures, and students emerge as confident changemakers shaping the future.
+    </p>
+    <h2>Our Mission</h2>
+    <p>
+      To build a student-driven entrepreneurial ecosystem that fosters curiosity, collaboration, and courage. Through mentorship, workshops, hands-on projects, speaker sessions, industry connections, and funding access, we aim to help students launch impactful startups and drive innovation beyond the campus.
+    </p>
+  </section>
+
+  <section id="team">
+    <h2>The Phoenix League – Team Structure</h2>
+    <p>
+      Meet the 4 squads that make up our dynamic team, each with a unique role in shaping the E-Cell:
+    </p>
+
+    <div class="team">
+      <h3>Aether – Website & Tech Team</h3>
+      <ul>
+        <li>Ayush Bhardwaj</li>
+        <li>Aditya Joshi</li>
+        <li>Omkar Kolhe</li>
+        <li>Tavleen Labana</li>
+      </ul>
+
+      <h3>Terra – Operations & Promotions Team</h3>
+      <ul>
+        <li>Tiya Pandey</li>
+        <li>Jiya Mirani</li>
+        <li>Dhruv Vyas</li>
+        <li>Soham Bhosle</li>
+      </ul>
+
+      <h3>Ignis – Creatives & Content Team</h3>
+      <ul>
+        <li>Gayatri Ghuge</li>
+        <li>Sumit Gelani</li>
+        <li>Bhavesh Chandnani</li>
+        <li>Prateek Jethwani</li>
+      </ul>
+
+      <h3>Noctis – Strategic Planning & Finance Team</h3>
+      <ul>
+        <li>Prashant Sahani</li>
+        <li>Vikrant Pawar</li>
+        <li>Saurabh Vishwakarma</li>
+        <li>Aryan Bhuimbar</li>
+      </ul>
+    </div>
+  </section>
+
+  <section id="events">
+    <h2>Events</h2>
+    <p>Upcoming and past events will be listed here soon.</p>
+  </section>
+
+  <section id="startups">
+    <h2>Startups</h2>
+    <p>Stories and highlights of student-led startups coming soon.</p>
+  </section>
+
+</body>
+</html>
