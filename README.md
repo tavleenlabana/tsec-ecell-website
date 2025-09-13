@@ -5,7 +5,6 @@ This is the official website for the Entrepreneurship Cell (E-Cell) of Thadomal 
 ## Contributors (Tech Team)
 - Ayush Bhardwaj  
 - Aditya Joshi  
-- Omkar Kolhe  
 - Tavleen Labana  
 
 ## Tech Stack
